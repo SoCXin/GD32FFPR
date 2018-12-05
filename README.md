@@ -2,7 +2,7 @@
 
 [![sites](mcuyun/mcuyun.png)](http://www.mcuyun.com)
 
-RISCV-GNU工具
+RISCV开发工具，收集资料二次开发
 
 ---
 
@@ -12,7 +12,9 @@ RISCV-GNU工具
 
 ## [组成](https://github.com/mcuyun/RISCV-GNU/wiki) 
 
+#### toolchain
 
+相关开发工具链
 
 ---
 
