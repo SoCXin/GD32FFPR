@@ -9,5 +9,9 @@
 
 任何公司和个人不需任何费用就可以自由使用RISC-V，相比Arm和Intel X86，RISC-V也有自身的短板：生态不完善。
 
+### [关联资源](https://github.com/sochub)
+
+* [RISC-V-DEBUG工具](https://github.com/mcuyun/RISC-V-DEBUG) 
+
 
 ##  [SoC资源平台](http://www.qitas.cn)  
