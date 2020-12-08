@@ -7,10 +7,10 @@
 #### [Level](https://github.com/SoCXin/Level)：168 MHz
 ## [GD32FFPR描述](https://github.com/SoCXin/GD32FFPR/wiki)
 
-[GD32FFPR](https://github.com/SoCXin/GD32FFPR)
+[GD32FFPR](https://github.com/SoCXin/GD32FFPR) 属于 specific line，拥有非常高的性价比
 
 
-[![sites](docs/GD32FFPR.png)](https://github.com/SoCXin/GD32FFPR)
+<!-- [![sites](docs/GD32FFPR.png)](https://github.com/SoCXin/GD32FFPR) -->
 
 ##### 关键特性
 
