@@ -1,17 +1,33 @@
-﻿# [RISC-V GNU工具](https://github.com/mcuyun/RISC-V-GNU) 
-[![sites](SoC/qitas.png)](http://www.qitas.cn) 
-#### 归属：[SDK](https://github.com/sochub/SDK)
-#### 父级：[RISC-V](https://github.com/sochub/RISC-V)
+﻿# [GD32FFPR](https://github.com/SoCXin/GD32FFPR)
 
-## [RISC-V GNU简介](https://github.com/mcuyun/RISC-V-GNU/wiki) 
+[![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
-微处理器指令集架构（ISA）是沟通软硬件运算之间的桥梁，是处理器的灵魂，它包括复杂指令集运算（CISC）、精简指令集运算（RISC）、显式并行指令集运算（EPIC）和超长指令字指令集运算（VLIW）四个种类。
+#### [Vendor](https://github.com/SoCXin/Vendor)：[GigaDevice](https://www.gigadevice.com/)
+#### [Core](https://github.com/SoCXin/Cortex)：[Cortex M4](https://github.com/SoCXin/M4)
+#### [Level](https://github.com/SoCXin/Level)：168 MHz
+## [GD32FFPR描述](https://github.com/SoCXin/GD32FFPR/wiki)
 
-任何公司和个人不需任何费用就可以自由使用RISC-V，相比Arm和Intel X86，RISC-V也有自身的短板：生态不完善。
-
-### [关联资源](https://github.com/sochub)
-
-* [RISC-V-DEBUG工具](https://github.com/mcuyun/RISC-V-DEBUG) 
+[GD32FFPR](https://github.com/SoCXin/GD32FFPR)
 
 
-##  [SoC资源平台](http://www.qitas.cn)  
+[![sites](docs/GD32FFPR.png)](https://github.com/SoCXin/GD32FFPR)
+
+##### 关键特性
+
+* 256K(Code) + 768K(DATA)
+* USB 2.0
+* 12bit ADC (2.6MSPS)
+* RTC
+* 封装(QFN36)
+
+### [资源收录](https://github.com/SoCXin/GD32FFPR)
+
+* [参考文档](docs/)
+* [参考资源](src/)
+* [参考工程](project/)
+
+### [选型建议](https://github.com/SoCXin)
+
+[GD32FFPR](https://github.com/SoCXin/GD32FFPR)
+
+###  [SoC.芯](http://www.SoC.Xin)
