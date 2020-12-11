@@ -7,17 +7,16 @@
 #### [Level](https://github.com/SoCXin/Level)：168 MHz
 ## [GD32FFPR描述](https://github.com/SoCXin/GD32FFPR/wiki)
 
-[GD32FFPR](https://github.com/SoCXin/GD32FFPR) 属于 specific line，拥有非常高的性价比
+[GD32FFPR](https://github.com/SoCXin/GD32FFPR)
 
 
-<!-- [![sites](docs/GD32FFPR.png)](https://github.com/SoCXin/GD32FFPR) -->
+[![sites](docs/GD32FFPR.png)](https://github.com/SoCXin/GD32FFPR)
 
 ##### 关键特性
 
-* 256K(Code) + 768K(DATA)
+* 128K RAM + 1M Flash
 * USB 2.0
-* 12bit ADC (2.6MSPS)
-* RTC
+* 12bit ADC x 2 (2.6MSPS)
 * 封装(QFN36)
 
 ### [资源收录](https://github.com/SoCXin/GD32FFPR)
@@ -28,6 +27,8 @@
 
 ### [选型建议](https://github.com/SoCXin)
 
-[GD32FFPR](https://github.com/SoCXin/GD32FFPR)
+[GD32FFPR](https://github.com/SoCXin/GD32FFPR) 属于specific line，主要应用为指纹识别，就其配置拥有非常高的性价比，但只有QFN36封装规格。
+
+
 
 ###  [SoC.芯](http://www.SoC.Xin)

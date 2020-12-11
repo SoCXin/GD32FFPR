@@ -1,0 +1,19 @@
+{
+    "name":"GD32FFPR",
+    "type":"MCU",
+    "Vendor":"GigaDevice",
+    "info":"Cortex M4 fingerprint MCU",
+    "Core":"Cortex M4",
+    "Freq":"168MHz",
+    "RAM":"128KB",
+    "Flash":"1024KB",
+    "package":"QFN36",
+    "power":[2.6,3.6],
+    "peripheral": ["ADC","USB","RTC","USART","I2C","SPI","DMA"],
+    "ADC":[2,12,12,2600],
+    "DMA":[2,12],
+    "UART":[2,10500],
+    "url":"https://github.com/SoCXin/GD32FFPR",
+    "homepage": "https://www.gigadevice.com/",
+    "version":"1.0.0"
+}

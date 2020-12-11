@@ -1,8 +1,0 @@
-{
-    "name":"GD32FFPR",
-    "Core":"Cortex M4",
-    "Vendor":"GigaDevice",
-    "description":"Cortex M4 GD32FFPR MCU",
-    "url":"https://github.com/SoCXin/GD32FFPR",
-    "version":"1.0.0"
-}
