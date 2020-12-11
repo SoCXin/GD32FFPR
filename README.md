@@ -15,15 +15,15 @@
 ##### 关键特性
 
 * 128K RAM + 1M Flash
-* USB 2.0
-* 12bit ADC x 2 (2.6MSPS)
+* USB
+* 12bit ADC x 2 x 12 (2.6MSPS)
 * 封装(QFN36)
 
 ### [资源收录](https://github.com/SoCXin/GD32FFPR)
 
-* [参考文档](docs/)
-* [参考资源](src/)
-* [参考工程](project/)
+* [文档](docs/)
+* [资源](src/)
+* [工程](project/)
 
 ### [选型建议](https://github.com/SoCXin)
 
